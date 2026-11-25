@@ -1,8 +1,8 @@
 # Ember & Thyme — Lunch Rush
 
-[![Best Cooking Game](https://make.fun/badge/best-cooking-game-20261125-0137/rank)](https://make.fun/competitions/best-cooking-game-20261125-0137)
-[![Best Cooking Game](https://make.fun/badge/best-cooking-game-20261125-0137/reward)](https://make.fun/competitions/best-cooking-game-20261125-0137)
-[![Best Cooking Game](https://make.fun/badge/best-cooking-game-20261125-0137/entries)](https://make.fun/competitions/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/WuYuanJie-211/best-cooking-game-20261125-0137/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/WuYuanJie-211/best-cooking-game-20261125-0137/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 An original timed cooking game for the make.fun competition
 **Make the best cooking game** (`best-cooking-game-20261125-0137`).
